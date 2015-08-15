@@ -1,0 +1,15 @@
+{
+  "name": "task-queues",
+  "version": "1.0.0",
+  "description": "task queues",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "keywords": [
+    "task",
+    "queues"
+  ],
+  "author": "zbinlin",
+  "license": "MIT"
+}
